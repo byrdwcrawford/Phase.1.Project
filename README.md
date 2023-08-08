@@ -21,9 +21,12 @@ Data Understanding
 * most uninjured passengers
 * most amount of engines
 * specific engine types
-![Fatal Injuries by Engine Type](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Engine%20Type%20Viz.pdf)
-![Total Fatal Injuries](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Fatal%20Injuries%20Viz.pdf)
-![Fatal Injuries by Engine Number](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Number%20of%20Engines%20Viz.pdf)
+![Fatal Injuries by Engine Type](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Images/Engine_Type%20Injuries.png)
+![Total Fatal Injuries](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Images/Total_Fatal_Injuries.png)
+![Fatal Injuries by Engine Number](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Images/Engine_Number.png)
+
+# Interactive Dashboard
+Link to Interactive Dashboard  https://public.tableau.com/app/profile/will.byrd3029/viz/WBAviationDataDashboard/Phase1Dashboard?publish=yes
 
 # Conclusions
 * We should target Models with more engines as the more engines on a plane, the less likely Fatal Injuries are to occur. More Engines means the plane is larger. We can tell by the frequency of crashes with the BOEING 737 and the amount of 'TotalUninjured' and 'Total.Fatal.Injuries' that the **BOEING 737 is one of the largest planes in our dataset.**
