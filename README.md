@@ -1,9 +1,9 @@
 # Aviation Crash Data Analysis
 Phase 1 Project
-By: Will Byrd
-Email: byrdwcrawford@gmail.com
-Linkedin: https://www.linkedin.com/in/will-byrd-40323863/
-Wordpress: blog33497.wordpress.com
+* By: Will Byrd
+* Email: byrdwcrawford@gmail.com
+* Linkedin: https://www.linkedin.com/in/will-byrd-40323863/
+* Wordpress: blog33497.wordpress.com
 
 # Business Understanding
 * This Project analyzes the Aviation Accident Database from the National Transportation Safety Board which includes accident data from 1962-2023.
@@ -25,8 +25,11 @@ Data Understanding
 * most uninjured passengers
 * most amount of engines
 * specific engine types
+* count of fatal injuries by engine type
 ![Fatal Injuries by Engine Type](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Images/Engine_Type%20Injuries.png)
+* count of total fatal injuries across planes
 ![Total Fatal Injuries](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Images/Total_Fatal_Injuries.png)
+* count of fatal injuries by number of engines on a plane
 ![Fatal Injuries by Engine Number](https://github.com/byrdwcrawford/Phase.1.Project/blob/main/Images/Engine_Number.png)
 
 # Interactive Dashboard
