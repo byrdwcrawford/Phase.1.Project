@@ -36,9 +36,15 @@ Data Understanding
 Link to Interactive Dashboard  https://public.tableau.com/app/profile/will.byrd3029/viz/WBAviationDataDashboard/Phase1Dashboard?publish=yes
 
 # Conclusions
-* We should target Models with more engines as the more engines on a plane, the less likely Fatal Injuries are to occur. More Engines means the plane is larger. We can tell by the frequency of crashes with the BOEING 737 and the amount of 'TotalUninjured' and 'Total.Fatal.Injuries' that the **BOEING 737 is one of the largest planes in our dataset.**
-* There is a **negative correlation between Turbo engines and Fatal Injuries** as well, indicating that Turbo Engines are much safer than Reciprocating. BOEING and AIRBUS largely use Turbo fans and CESSNA uses Reciprocating.
-* Based on the data we have present and a simple review of popularity of Models, the **Cessna 172 has one of the best safety record of planes in this dataset.** It ranks 25th in most uninjured passengers of all planes.
+* BOEING 737  #1 recommendation
+*     1st in most injured and Uninjured
+*     Multiple Turbo Engine Plane
+*     Least risk per passenger
+* CESSNA 172  #2 recommendation 
+*     25th in most uninjured
+*     Single Reciprocating Engine
+*     Least overall Risk
+
 
 # Limitations
 * This is only crash data, so if a plane theoretically has never crashed before, it would not be in this dataset.
