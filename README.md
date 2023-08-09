@@ -1,5 +1,9 @@
-# Phase.1.Project
+# Aviation Crash Data Analysis
 Phase 1 Project
+By: Will Byrd
+Email: byrdwcrawford@gmail.com
+Linkedin: https://www.linkedin.com/in/will-byrd-40323863/
+Wordpress: blog33497.wordpress.com
 
 # Business Understanding
 * This Project analyzes the Aviation Accident Database from the National Transportation Safety Board which includes accident data from 1962-2023.
@@ -38,6 +42,6 @@ Link to Interactive Dashboard  https://public.tableau.com/app/profile/will.byrd3
 * The majority of the rows were not used in final calculations due to so many NaN/missing values.
 * This data is US based which limits international analysis.
 
-# Conclusions
+# Next Steps
 * Make a deeper analysis of Boeing 737 and Cessna 172.
 * Analyze cost of maintenence for these 2 planes.
